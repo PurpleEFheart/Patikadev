@@ -1,0 +1,2 @@
+# Patikadev
+Ödevler
